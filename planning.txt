@@ -1,3 +1,5 @@
+mongodb+srv://vaibhavmadan20:P0QSShdlttpeUHeT@cluster0.nujes.mongodb.net/
+
 DevTinder
 1) Create an account
 2) Login
